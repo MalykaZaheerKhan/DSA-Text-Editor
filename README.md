@@ -1,0 +1,1 @@
+A C++ text editor demonstrating linked lists for text management and stacks for undo/redo functionality. Users can insert, delete, display text, and revert changes. A practical project for learning and practicing core Data Structures and Algorithms concepts.
